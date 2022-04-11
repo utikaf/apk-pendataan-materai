@@ -2,7 +2,7 @@
 
 aplikasi hanya digunakan oleh pegawai
 
-aplikasi ini hanya untuk mendata
+aplikasi ini hanya untuk mendata penjualan materai
 
 username : kantorpos
 
